@@ -8,6 +8,7 @@
 
 *coded with rate½ and pattern mapping (125Kbps) Mode :8
 
+![Convolution code](https://github.com/wxlee9/images_store/blob/master/gfsk_modulation.png)
 
 ## program
 i. ble_digital_comm_course.m is the main program
